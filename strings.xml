@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BasicApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Android </string>
+
+    <string name="Language">java</string>
+    <string name="swtich_view">Swtich view</string>
+</resources>
